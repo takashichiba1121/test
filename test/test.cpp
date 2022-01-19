@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Visual Staudio Git";
+    std::cout << "ローカルリポジトリで変更した場所";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
