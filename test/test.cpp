@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello Visual Staudio Git";
+    std::cout << "テストブランチでこの行を追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
